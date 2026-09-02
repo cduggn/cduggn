@@ -4,10 +4,11 @@ Software engineer. Building stuff.
 
 ## Current Projects
 
-- 🛡️ **[sub-visual](https://github.com/cduggn/sub-visual)** — Security tools for evaluating open-source repository trust signals and detecting threats in SKILL.md files
-- 🌿 **[stalkr](https://github.com/cduggn/stalkr)** — Photogrammetry + ML to deconstruct garden images into botanical taxonomies, USDA hardiness zones, and design schematics
+- ⚡ **[lam](https://github.com/cduggn/lambda-cli)** — Lambda Cloud GPU instances from the command line; launch and bootstrap with cloud-init, sync code, track spend, tear down
 - ☁️ **[ccExplorer](https://github.com/cduggn/ccExplorer)** — CLI tool to explore the cost of your cloud resources
 - 🔌 **[ccExplorer-mcp](https://github.com/cduggn/ccExplorer-mcp)** — AWS Cost Explorer as an MCP server; query and forecast cloud costs from Claude, Copilot, or any MCP client
+- 🛡️ **[sub-visual](https://github.com/cduggn/sub-visual)** — Security tools for evaluating open-source repository trust signals and detecting threats in SKILL.md files
+- 🌿 **[stalkr](https://github.com/cduggn/stalkr)** — Photogrammetry + ML to deconstruct garden images into botanical taxonomies, USDA hardiness zones, and design schematics
 
 ## Blog Posts
 
