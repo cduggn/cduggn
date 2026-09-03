@@ -1,6 +1,6 @@
 # Hi, I'm Colin
 
-Software engineer building command-line tools for cloud cost, supply-chain security, and GPU infrastructure. Mostly Go and Rust.
+Currently exploring how to make open-weight model serving faster, safer, cheaper, and easier to operate.
 
 ## Current Projects
 
