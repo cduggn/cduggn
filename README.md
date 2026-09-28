@@ -1,7 +1,5 @@
 # Hi, I'm Colin
 
-Currently exploring how to make open-weight model serving faster, safer, cheaper, and easier to operate.
-
 ## Current Projects
 
 - ⚡ **[lam](https://github.com/cduggn/lambda-cli)** — Lambda Cloud GPU instances from the command line; launch and bootstrap with cloud-init, sync code, track spend, tear down
