@@ -1,4 +1,4 @@
-\ Colin / cduggn
+# Colin / cduggn
 
 > Somewhere between the GPU and the Sprawl.
 
