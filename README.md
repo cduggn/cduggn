@@ -1,10 +1,13 @@
-# Hi, I'm Colin
+\ Colin / cduggn
 
-## Current Projects
+> Somewhere between the GPU and the Sprawl.
 
-- ⚡ **[lam](https://github.com/cduggn/lambda-cli)** — Lambda Cloud GPU instances from the command line; launch and bootstrap with cloud-init, sync code, track spend, tear down
-- ☁️ **[ccExplorer](https://github.com/cduggn/ccExplorer)** — CLI tool to explore the cost of your cloud resources
-- 🔌 **[ccExplorer-mcp](https://github.com/cduggn/ccExplorer-mcp)** — AWS Cost Explorer as an MCP server; query and forecast cloud costs from Claude, Copilot, or any MCP client
-- 🔧 **[revd](https://github.com/cduggn/revd)** — One command to detect a project's languages and set up the linters, secret scanning, dependency audits, and pre-commit hook they deserve; Go, TypeScript, Python, Rust, and Java
-- 🛡️ **[sub-visual](https://github.com/cduggn/sub-visual)** — Security tools for evaluating open-source repository trust signals and detecting threats in SKILL.md files
-- 🌿 **[stalkr](https://github.com/cduggn/stalkr)** — Photogrammetry + ML to deconstruct garden images into botanical taxonomies, USDA hardiness zones, and design schematics
+Currently deep in **inference engineering** — making intelligence fit within the stubborn constraints of memory, bandwidth, latency, and cost.
+
+**Neuromancer. Snow Crash. Blade Runner.** That end of the spectrum. Neural interfaces, machine intelligence, neon in the rain, and ideas that sound unreasonable until someone builds them.
+
+AI does much of the hard graft these days. I still want to read the code, pull apart the architecture, and understand what’s happening underneath. There’s always another engineering rabbit hole worth disappearing into.
+
+Still curious. Still poking at the machinery.
+
+`inference engineering` · `neural interfaces` · `systems` · `plausible science fiction`
