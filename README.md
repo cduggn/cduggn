@@ -2,12 +2,10 @@
 
 > Somewhere between the GPU and the Sprawl.
 
-Currently deep in **inference engineering** — making intelligence fit within the stubborn constraints of memory, bandwidth, latency, and cost.
+I'm working on inference engineering. Interested in how models run, where the bottlenecks are, and what we can squeeze out of the hardware.
 
-**Neuromancer. Snow Crash. Blade Runner.** That end of the spectrum. Neural interfaces, machine intelligence, neon in the rain, and ideas that sound unreasonable until someone builds them.
+Neuromancer, Snow Crash, and Blade Runner are my kind of sci-fi. I like neural interfaces and ideas that sound a bit unhinged but might actually work.
 
-AI does much of the hard graft these days. I still want to read the code, pull apart the architecture, and understand what’s happening underneath. There’s always another engineering rabbit hole worth disappearing into.
-
-Still curious. Still poking at the machinery.
+AI does most of the hard graft these days. I still enjoy digging through code and working out engineering problems. Having something else write the code hasn't made me any less interested in understanding it.
 
 `inference engineering` · `neural interfaces` · `systems` · `plausible science fiction`
